@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(66, 66, 135);
   }
   
   li {
@@ -28,6 +28,15 @@ ul {
   }
   
   .active {
-    background-color: #04AA6D;
+    background-color: rgb(183, 178, 254);
+    color: #111;
   }
+
+  .Login-Image {
+    height: 1em;
+    margin-right: 0.5em;
+    vertical-align: bottom;
+ }
+ 
+
   
